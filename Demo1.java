@@ -5,7 +5,7 @@ class Demo1
 		System.out.println("int a");
 	}
 
-	public void sample(int a, int b)
+	public void sample(int a,  int b)
 	{
 		 System.out.println("int a, int b");
 	}
