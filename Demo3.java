@@ -6,8 +6,7 @@ class Demo3
 		System.out.println("Demo3()");
 	}
 
-	Demo3(int a)
-	{
+	Demo3(int a){
 		System.out.println("Demo3("+a+")");
 	}
 
