@@ -7,7 +7,7 @@ class Demo1
 
 	public void sample(int a, int b)
 	{
-		System.out.println("int a, int b");
+		 System.out.println("int a, int b");
 	}
 
 	/*public static void main(String[] args) 
