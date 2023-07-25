@@ -1,0 +1,7 @@
+class Father 
+{
+	public double payment()
+	{
+		return 130000.00;
+	}
+}

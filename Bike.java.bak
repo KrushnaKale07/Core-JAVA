@@ -1,0 +1,7 @@
+class Bike 
+{
+	public int topSpeed()
+	{
+		return 0;
+	}
+}
